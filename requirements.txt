@@ -1,0 +1,6 @@
+gym==0.25.1
+nes-py>=8.1.4
+numpy<2
+pyglet<=1.5.21
+tqdm>=4.48.2
+importlib_metadata>=4.8.0
